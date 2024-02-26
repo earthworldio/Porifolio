@@ -275,7 +275,7 @@ a:hover {
 #head img.img-circle {
   background: url(./images/earth1.jpg);
   background-size: cover;
-  background-position: -10px;
+  background-position: 1.5px;
   display: block;
   width: 185px;
   height: 185px;
